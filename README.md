@@ -18,4 +18,12 @@ Languages I Love
 
 Some technologies I like working with
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,redux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,redux,express&theme=dark)](https://skillicons.dev)
+
+Some technologies I am interested in learning
+
+[![My Skills](https://skillicons.dev/icons?i=prisma,svelte,postgres,electron, &theme=dark)](https://skillicons.dev)
+
+Some of the general things that I know
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,&theme=dark)](https://skillicons.dev)
