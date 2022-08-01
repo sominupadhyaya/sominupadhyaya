@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Some things about me:
 
 - 🔭 I’m currently working on various projects with javascript (react and other frontend tech)
 
