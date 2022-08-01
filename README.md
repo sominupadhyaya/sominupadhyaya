@@ -21,7 +21,7 @@ Some of the general things that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vim,bash&theme=dark)](https://skillicons.dev)
 
 
-Some technologies I like working with
+Some technologies I work with
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,redux,express&theme=dark)](https://skillicons.dev)
 
