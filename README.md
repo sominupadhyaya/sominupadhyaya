@@ -14,4 +14,4 @@ Some things about me:
 
 Languages I Love
 
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,figma&theme=dark)](https://skillicons.dev)
