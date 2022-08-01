@@ -22,8 +22,8 @@ Some technologies I like working with
 
 Some technologies I am interested in learning
 
-[![My Skills](https://skillicons.dev/icons?i=prisma,svelte,postgres,electron&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,svelte,postgres,electron,rust&theme=dark)](https://skillicons.dev)
 
 Some of the general things that I know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vim,bash&theme=dark)](https://skillicons.dev)
