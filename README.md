@@ -15,3 +15,7 @@ Some things about me:
 Languages I Love
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,python&theme=dark)](https://skillicons.dev)
+
+Some technologies I like working with
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs &theme=dark)](https://skillicons.dev)
