@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Somin from Nepal
 
 Some things about me:
 
