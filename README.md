@@ -1,4 +1,7 @@
-### Hi there 👋 I am Somin from Nepal
+### Hi there 👋 
+
+
+I am Somin. I am a web developer from Nepal
 
 Some things about me:
 
