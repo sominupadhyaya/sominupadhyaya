@@ -30,5 +30,5 @@ Some technologies I work with
 
 Some technologies I am interested in learning
 
-[![My Skills](https://skillicons.dev/icons?i=prisma,svelte,graphql,mongodb,postgres,electron,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,svelte,vue,graphql,mongodb,postgres,electron,rust&theme=dark)](https://skillicons.dev)
 
