@@ -15,6 +15,11 @@ Some things about me:
 
 - ⚡ Fun fact: I love cats and dogs outside of javascript.
 
+My text editor
+
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+
+
 Languages I Love
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,python&theme=dark)](https://skillicons.dev)
