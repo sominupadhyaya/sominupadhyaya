@@ -26,7 +26,7 @@ Some of the general things that I know
 
 Some technologies I work with
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,redux,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,react-query,nextjs,redux,express&theme=dark)](https://skillicons.dev)
 
 Some technologies I am interested in learning
 
