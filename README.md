@@ -17,7 +17,7 @@ Some things about me:
 
 My text editor
 
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim&theme=dark)](https://skillicons.dev)
 
 
 Languages I Love
@@ -26,7 +26,7 @@ Languages I Love
 
 Some of the general things that I know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vim,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,bash&theme=dark)](https://skillicons.dev)
 
 
 Some technologies I work with
