@@ -1,38 +1,77 @@
-## Hi there 👋 
+# 👋 Hi there, I'm Somin Upadhyaya!
 
-I am Somin Upadhyaya(17). I am a web developer from Kathmandu,Nepal.
+<!--
+## 📫 Connect with me
 
-**Some things about me:**
+<p align="center">
+  <a href="https://www.linkedin.com/in" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+-->
 
-- I’m currently working on various projects with javascript (react and other frontend tech)
+## 🛠️ Tech Stack & Toolkit
 
-- I’m currently learning frontend and a little backend
+<table align="center">
+  <tr>
+    <th align="center">Tech Stack</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+      <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+      <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Toolkit</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+      <img src="https://skillicons.dev/icons?i=vim" title="Vim" />
+      <img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian" />
+      <img src="https://skillicons.dev/icons?i=git" title="Git" />
+      <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+      <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" /
+      <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Currently Learning</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+      <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=postgres" title="postgres" />
+    </td>
+  </tr>
+</table>
 
-- My contact email : sominupadhyaya@gmail.com
-  
-- I am familiar wih python but I am primarily doing JS for past few years
-  
-- I've been learning JS for past 2 and half years and react for more than 1 year
+## 📊 GitHub Stats
 
-**My text editor**
+<table align="center">
+  <tr>
+    <td>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sominupadhyaya&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Language" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sominupadhyaya&theme=dark&exclude_days=Sat" alt="GitHub Streak" width="400px"/>
+    </td>
+  </tr>
+</table>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim&theme=dark)](https://skillicons.dev)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sominupadhyaya&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
 
-
-**Languages I Love**
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,c,python&theme=dark)](https://skillicons.dev)
-
-**Some of the things that I am familiar with**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,bash&theme=dark)](https://skillicons.dev)
-
-
-**Some technologies I work with**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,redux,express&theme=dark)](https://skillicons.dev)
-
-**Some technologies I am interested in learning**
-
-[![My Skills](https://skillicons.dev/icons?i=prisma,svelte,redis,vue,remix,graphql,mongodb,postgres,electron,rust&theme=dark)](https://skillicons.dev)
-
+## 👁️ GitHub Visits
+<p align="center">
+    <img src="https://count.getloli.com/get/@sominupadhyaya?theme=rule34" alt="sominupadhyaya" />
+</p>
